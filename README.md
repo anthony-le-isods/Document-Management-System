@@ -1,6 +1,6 @@
 # Document-Management-System
  
- Create a Document Management System using Django with RestAPI  
+Create a Document Management System using Django with RestAPI  
  
  ## Desc: 4 tables 
   - Document(docs_id, category_id, brief, content, media_file, author, created_date)
